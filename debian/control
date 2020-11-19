@@ -1,0 +1,13 @@
+Source: libjs-qrcodejs
+Section: web
+Priority: optional
+Maintainer: Proxmox Support Team <support@proxmox.com>
+Standards-Version: 3.9.8
+Homepage: https://davidshimjs.github.io/qrcodejs/
+Build-Depends: debhelper (>= 10~),
+
+Package: libjs-qrcodejs
+Architecture: all
+Depends: ${misc:Depends}
+Description: javascript library for making cross-browser QRCodes
+ Cross-Browser QRCode generator supporting HTML5 Canvas and table tags.

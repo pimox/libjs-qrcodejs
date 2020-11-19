@@ -1,0 +1,5 @@
+libjs-qrcodejs (1.20201119-pve1) unstable; urgency=medium
+
+  * initial packaging
+
+ -- Proxmox Support Team <support@proxmox.com>  Thu, 19 Nov 2020 10:40:33 +0100
