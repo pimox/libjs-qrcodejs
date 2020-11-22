@@ -9,5 +9,5 @@ Build-Depends: debhelper (>= 10~),
 Package: libjs-qrcodejs
 Architecture: all
 Depends: ${misc:Depends}
-Description: javascript library for making cross-browser QRCodes
+Description: Cross-Browser JavaScript library for making QRCodes
  Cross-Browser QRCode generator supporting HTML5 Canvas and table tags.
